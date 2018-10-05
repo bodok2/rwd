@@ -1,0 +1,9 @@
+body {
+    background-image: url("../img/man-1.jpg");
+}
+
+.item {
+    color: white;
+    left: 0%;
+    top: 35vw;
+}

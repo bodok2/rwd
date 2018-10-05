@@ -1,0 +1,12 @@
+body {
+    background-image: url("../img/man-2.jpg");
+}
+
+.item {
+
+    color: white;
+    left: 55%;
+    top: 10vw;
+    text-align: center;
+    ;
+}

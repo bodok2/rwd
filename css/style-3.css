@@ -1,0 +1,9 @@
+body {
+    background-image: url("../img/man-1.jpg");
+}
+
+.item {
+    color: black;
+    left: 10%;
+    top: 80vw;
+}
